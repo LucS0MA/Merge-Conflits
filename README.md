@@ -1,3 +1,5 @@
+LOCAL
+
 # Merge-Conflits
 
 Lorem ipsum dolor sit amet,
